@@ -1,2 +1,2 @@
-# token-perms-test-1246460
+# token-perms-test-image
 testing ghcr using github_token with workflow
